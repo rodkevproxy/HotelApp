@@ -4,21 +4,6 @@
 package com.mycompany.hotelapp;
 
 import java.util.Scanner;
-
-
-/**
- * 4COSC005W - Software Development II Lab-based assessment - HotelApp
- * (Template)
- *
- * Before you start, complete the following information: 
- * NAME: Kevin
- * SURNAME: Rodas
- * STUDENT ID: w2151939
- *
- * IMPORTANT: - Do not use external websites / AI tools during the assessment -
- * This project is intentionally incomplete; Follow your task sheet.
- *
- */
 public class App {
 
     // Global Scanner
@@ -246,14 +231,7 @@ public static void checkInGuest() {
         // here i added a guest counter to keep track of many objects have been introduced inside the   
         // guests array, this way i can use a if statement to inform the user when the array is full.
         //Also i implemented a final message to let the user now that he has been added.
-        
-        
-        
-        
-        
-        
-        
-        
+     
     }
 
 }
