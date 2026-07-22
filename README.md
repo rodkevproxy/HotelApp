@@ -1,22 +1,12 @@
 # Hotel Room Manager
 
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Status: Completed](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Module: Software Dev II](https://img.shields.io/badge/Module-Software_Dev_II-blue?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/rodkevproxy/HotelApp?style=for-the-badge)
 ## Description
 This repository contains a Java-based console application designed to manage hotel room occupancy and guest records. The application was built as the final lab-based assessment for the university module "4COSC005W - Software Development II". It features an interactive command-line interface that allows a user to perform basic hotel administration tasks.
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Status: Completed](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![Module: Software Dev II](https://img.shields.io/badge/Module-Software_Dev_II-blue?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO_NAME?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/YOUR_REPO_NAME?style=for-the-badge)
-# Hotel Room Manager
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Status: Completed](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![Module: Software Dev II](https://img.shields.io/badge/Module-Software_Dev_II-blue?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO_NAME?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/YOUR_REPO_NAME?style=for-the-badge)
-
-## Description
-...
 
 ## Features
 * **Interactive Menu**: An easy-to-navigate main menu running on a continuous loop until the user chooses to quit.
